@@ -59,6 +59,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 </p>
 <br/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityansh2334&theme=flag-india" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityansh2334&show_icons=true&hide=contribs,issues&theme=flag-india" />
 <div align="right">
  
 <br/>
