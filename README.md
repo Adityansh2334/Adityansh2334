@@ -34,7 +34,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <div align="right">
  
 <br/>
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/Adityansh2334/Adityansh2334/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+
+[![Write into my guest book](https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/Adityansh2334/Adityansh2334/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
 <br/>
  [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/adityabehera23@gmail.com)
 
