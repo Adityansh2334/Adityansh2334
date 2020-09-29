@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
-</p>
-<br/>
 ![Hey there, I'm Aditya. I'm a coder, a maker and infosec enthusiast. Check out my work](https://github.com/Adityansh2334/Adityansh2334/raw/master/bio.gif)
 
 <!--
@@ -23,7 +19,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 <br/>
 <div align="center">
-
+<img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
 [![GitHub followers](https://img.shields.io/github/followers/Adityansh2334?style=social)](https://www.github.com/Adityansh2334)
 [![Linkedin Badge](https://img.shields.io/badge/-adityakumar01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakumar01/)](https://www.linkedin.com/in/adityakumar01/)
 [![Instagram Badge](https://img.shields.io/badge/-adi_00_1-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adi_00_1/)](https://www.instagram.com/adi_00_1/)
