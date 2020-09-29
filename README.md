@@ -1,13 +1,10 @@
-<p align="center">
+<div align="center">
+ 
 <img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
- 
- <p align="center">
- 
+
  [![Personal WebSite](https://img.shields.io/badge/Personal%20Website-Click%20ME-success)](https://o6oizsvwfnkwejwr5ggdqw-on.drv.tw/PersonalSite/home.html)
  
- </p>
- 
-</p>
+</div>
 
 ![Hey there, I'm Aditya. I'm a coder, a maker and infosec enthusiast. Check out my work](https://github.com/Adityansh2334/Adityansh2334/raw/master/bio.gif)
 
