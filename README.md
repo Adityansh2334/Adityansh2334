@@ -2,7 +2,7 @@
  
 <img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
 
- [![Personal WebSite](https://img.shields.io/badge/Personal%20Website-Click%20ME-success)](https://o6oizsvwfnkwejwr5ggdqw-on.drv.tw/PersonalSite/home.html)
+ [![Personal WebSite](https://img.shields.io/badge/Personal%20Website-Click%20ME-success)](http://aditechptro.unaux.com/)
  
 </div>
 
