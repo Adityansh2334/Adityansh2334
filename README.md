@@ -1,5 +1,5 @@
 ![Hey there, I'm Aditya. I'm a coder, a maker and infosec enthusiast. Check out my work](https://github.com/Adityansh2334/Adityansh2334/raw/master/bio.gif)
-
+<img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
 <!--
 **Adityansh2334/Adityansh2334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
