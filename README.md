@@ -49,8 +49,9 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <br>
 <h1 align="left">Technologies</h1>
  
-<p align="left">
-<code align="left">
+<div align="left">
+ 
+<code>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -67,7 +68,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 </code>
-</p>
+</div>
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityansh2334&theme=flag-india" />
