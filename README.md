@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [https://justaditya.hashnode.dev](https://justaditya.hashnode.dev)
 
-- 📫 How to reach me **https://linkedin.com/in/Adityansh2334/**
+- 📫 How to reach me **https://linkedin.com/in/adityakumar01/**
 
 - 📄 Know about my experiences [https://resume.creddle.io/resume/ainmnur5y1v](https://resume.creddle.io/resume/ainmnur5y1v)
 
