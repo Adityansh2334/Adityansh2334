@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&color=F77934&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+Explore+the+Java+World;and+Cloud+DevOps+with+AdityaKumar;Let's+Connect!.+%F0%9F%A4%9E" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75E3A&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+Explore+the+Java+and;Cloud+DevOps+world+with;Aditya+Kumar.+Let's+Connect!+%F0%9F%A4%9E" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A Java Developer and Cloud DevOps Enthusiast from India</h3>
 
