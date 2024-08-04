@@ -1,84 +1,66 @@
-<div align="center">
- 
-<img src="https://komarev.com/ghpvc/?username=Adityansh2334&label=PROFILE+VIEWS&color=orange&style=flat-square" />
-
- [![Personal WebSite](https://img.shields.io/badge/Personal%20Website-Click%20ME-success)](http://adityakumar13.me/)
- 
-</div>
-
-<div align="center">
- 
- ![Hey there, I'm Aditya. I'm a coder, a maker and infosec enthusiast. Check out my work](https://github.com/Adityansh2334/Adityansh2334/raw/master/bio.gif)
- 
- </div>
- 
-
-
-
-<!--
-**Adityansh2334/Adityansh2334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--  ![logo](https://github.com/sumanprasad007/sumanprasad007/blob/main/GitHub%20Banner%2011th%20April.png)
 -->
+![image](https://github.com/sumanprasad007/sumanprasad007/assets/55047333/945dc45a-273a-42ad-8364-2393bdb0b6f1)
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&color=F77934&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+Explore+the+Java+World;and+Cloud+DevOps+with+AdityaKumar;Let's+Connect!.+%F0%9F%A4%9E" alt="Typing SVG" /></a></h1>
 
-I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good. Let's have future better.
+<h3 align="center">A Java Developer and Cloud DevOps Enthusiast from India</h3>
 
-<br/>
-<div align="center">
- 
-[![GitHub followers](https://img.shields.io/github/followers/Adityansh2334?style=social)](https://www.github.com/Adityansh2334)
-[![Linkedin Badge](https://img.shields.io/badge/-adityakumar01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakumar01/)](https://www.linkedin.com/in/adityakumar01/)
-[![Instagram Badge](https://img.shields.io/badge/-adi_00_1-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adi_00_1/)](https://www.instagram.com/adi_00_1/)
-[![Facebook Badge](https://img.shields.io/badge/-aditya.bapun-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/aditya.bapun/)](https://www.facebook.com/aditya.bapun/)
-[![Telegram Badge](https://img.shields.io/badge/-Aditya_00900-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@Aditya_00900)](https://telegram.org/@Aditya_00900)
+<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
-</div>
-<br/>
-<br/>
- -  “Simplicity is prerequisite for reliability.” — Edsger Dijkstra
-<br/>
-<br/>
-<h1 align="left">Technologies</h1>
- 
-<div align="center">
- 
+<p align="center"> <a href="https://x.com/aditya_kumar109" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_kumar109?logo=twitter&style=for-the-badge" alt="aditya_kumar109" /></a> </p>
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<h1></h1>
 
-</div>
-<br/>
+- 🔭 I’m currently working as [Solutions Engineer & building robust solutions for banking clients.](https://github.com/sumanprasad007/Streamlining-Website-Deployment-through-AWS-CI-CD-Pipeline.git)
+  
+<!-- - **TWS Community Builder 🔄** [Checkout the Page on LinkedIn](https://www.linkedin.com/company//)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityansh2334&theme=flag-india" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityansh2334&show_icons=true&hide=contribs,issues&theme=flag-india" />
-<div align="right">
- 
-<br/>
+- **Completed 90DaysOfDevops Challenge 🚀** [Checkout my #90days Journey😊](https://www.linkedin.com/posts/)
 
-[![Write into my guest book](https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/Adityansh2334/Adityansh2334/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
-<br/>
-[![Wanted to Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/adityakb2020)
+- **My YouTube Channel 🎥** [👉 Click here](https://www.youtube.com/@) -->
 
-</div>
+- 🌱 I’m currently learning **AWS CI/CD Pipeline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM**
+
+- 👯 I’m looking to collaborate on **DevOps Project**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Adityansh2334](https://github.com/Adityansh2334)
+
+- 📝 I regularly write articles on [https://justaditya.hashnode.dev](https://justaditya.hashnode.dev)
+
+- 📫 How to reach me **https://linkedin.com/in/Adityansh2334/**
+
+- 📄 Know about my experiences [https://resume.creddle.io/resume/ainmnur5y1v](https://resume.creddle.io/resume/ainmnur5y1v)
+
+<!-- <p align="left"> <img align="right" alt="Cloud DevOps" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU1NGY3NWEyNWRkY2M3Njc0YjEzMzNjZmYwYmZhMzRlYjMzZDM5MCZjdD1z/lP8xu5t2DLGG045H8F/giphy.gif" /> </p> -->
+
+- ⚡ Fun fact **I'm a Solutions Engineer, Tech Blogger, Badminton Player, Trekker, 10 Fingers-Fast Typist: 60 + WPM, Communicator and Community contributor**
+<!-- 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
+
+<h1></h1>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/aditya_kumar109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_kumar109" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityakumar01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumar01/" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya_kumar_2413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_kumar_2413" height="30" width="40" /></a>
+<a href="https://justaditya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="justaditya.hashnode.dev" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@/" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/adityabehera23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityabehera23" height="30" width="40" /></a>
+<a href="/https://justaditya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justaditya.hashnode.dev" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h1></h1>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityansh2334&show_icons=true&locale=en&theme=radical" alt="Adityansh2334" height="358"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityansh2334&show_icons=true&locale=en&theme=radical" alt="Adityansh2334" width="420"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityansh2334&theme=radical" alt="Adityansh2334 " width="420" />
