@@ -3,7 +3,9 @@
 
 <h3 align="center">A Java Developer and Cloud DevOps Enthusiast from India</h3>
 
-<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityansh2334&theme=redical"/>
+</p>
 
 <p align="center"> <a href="https://x.com/aditya_kumar109" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_kumar109?logo=twitter&style=for-the-badge" alt="aditya_kumar109" /></a> </p>
 
@@ -47,7 +49,7 @@
 <a href="https://justaditya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="justaditya.hashnode.dev" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@/" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/adityabehera23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityabehera23" height="30" width="40" /></a>
-<a href="/https://justaditya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justaditya.hashnode.dev" height="30" width="40" /></a>
+<a href="https://justaditya.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justaditya.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 
@@ -57,8 +59,16 @@
 <h1></h1>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityansh2334&show_icons=true&locale=en&theme=radical" alt="Adityansh2334" height="358"/>
+<img align="left"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adityansh2334&layout=compact&theme=radical&hide_border=true"
+     height="170"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityansh2334&show_icons=true&locale=en&theme=radical" alt="Adityansh2334" width="420"/>
+<img align="center"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityansh2334&show_icons=true&theme=radical&hide_border=true"
+     width="420"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityansh2334&theme=radical" alt="Adityansh2334 " width="420" />
+<img align="center"
+     src="https://github-readme-streak-stats-eight.vercel.app/?user=Adityansh2334&theme=radical&hide_border=true"
+     width="420"/>
+
+
