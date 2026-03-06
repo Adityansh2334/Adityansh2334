@@ -12,7 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D Contribution Calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Adityansh2334
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add -A
+          git commit -m "generate 3D contribution"
+          git push
