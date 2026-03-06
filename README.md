@@ -87,7 +87,7 @@ A modern **desktop application for Data Structures & Algorithm preparation** fea
 # 🧊 3D Contribution Calendar
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-night-rainbow.svg"/>
+<img src="https://raw.githubusercontent.com/Adityansh2334/Adityansh2334/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ---
