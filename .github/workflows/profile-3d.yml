@@ -5,23 +5,27 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Adityansh2334
 
-      - name: Commit files
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add -A
-          git commit -m "generate 3D contribution"
+          git commit -m "generated 3D contribution" || echo "No changes to commit"
           git push
